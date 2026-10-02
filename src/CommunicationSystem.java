@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class CommunicationSystem {
+public interface CommunicationSystem {
+    void send(String message);
 }

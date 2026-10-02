@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
-public class LaserCommunication {
+public class LaserCommunication implements CommunicationSystem {
+    @Override
+    public void send(String message) {
+        System.out.println("Laser Communication: " + message);
+    }
 }
