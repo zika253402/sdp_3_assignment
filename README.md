@@ -95,4 +95,4 @@ Existing mission classes do not need to be changed.
 
 ## How to Run
 
-Run `Main.java` in IntelliJ IDEA.
+Run `Main.java` in IntelliJ IDEA. 
